@@ -96,6 +96,13 @@
     ],
     "1909": [
         {
+            "heading": "November 10, 2020\u2014KB4586786 (OS Builds 18362.1198 and 18363.1198)",
+            "updateKb": "KB4586786",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4586786",
+            "releaseDate": "2020-11-10T00:00:00",
+            "releaseVersion": "1903-OS Build 18362.1198 and 1909-OS Build 18363.1198"
+        },
+        {
             "heading": "October 20, 2020\u2014KB4580386 (OS Builds 18362.1171 and 18363.1171) Preview",
             "updateKb": "KB4580386",
             "updateUrl": "https://support.microsoft.com/en-us/help/4580386",
@@ -258,6 +265,13 @@
         }
     ],
     "1903": [
+        {
+            "heading": "November 10, 2020\u2014KB4586786 (OS Builds 18362.1198 and 18363.1198)",
+            "updateKb": "KB4586786",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4586786",
+            "releaseDate": "2020-11-10T00:00:00",
+            "releaseVersion": "1903-OS Build 18362.1198 and 1909-OS Build 18363.1198"
+        },
         {
             "heading": "October 20, 2020\u2014KB4580386 (OS Builds 18362.1171 and 18363.1171) Preview",
             "updateKb": "KB4580386",
