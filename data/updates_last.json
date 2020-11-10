@@ -879,6 +879,13 @@
     ],
     "1803": [
         {
+            "heading": "November 10, 2020\u2014KB4586785 (OS Build 17134.1845)",
+            "updateKb": "KB4586785",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4586785",
+            "releaseDate": "2020-11-10T00:00:00",
+            "releaseVersion": "OS Build 17134.1845"
+        },
+        {
             "heading": "October 13, 2020\u2014KB4580330 (OS Build 17134.1792)",
             "updateKb": "KB4580330",
             "updateUrl": "https://support.microsoft.com/en-us/help/4580330",
