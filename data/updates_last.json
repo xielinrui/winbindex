@@ -527,6 +527,13 @@
     ],
     "1809": [
         {
+            "heading": "November 17, 2020\u2014KB4594442 (OS Build 17763.1579) Out-of-band",
+            "updateKb": "KB4594442",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4594442",
+            "releaseDate": "2020-11-17T00:00:00",
+            "releaseVersion": "OS Build 17763.1579"
+        },
+        {
             "heading": "November 10, 2020\u2014KB4586793 (OS Build 17763.1577)",
             "updateKb": "KB4586793",
             "updateUrl": "https://support.microsoft.com/en-us/help/4586793",
